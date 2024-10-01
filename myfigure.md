@@ -1,0 +1,1 @@
+![a figure](./figures/my_figure.svg)
